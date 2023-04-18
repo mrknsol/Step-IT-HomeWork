@@ -63,24 +63,24 @@ using namespace std;
 
 #pragma region Task3
 
-//int main()
-//{
-//	int length{ 300 }, count{};
-//	char* data = new char[length] {};
-//	cout << "Enter: ";
-//	cin.getline(data, length);
-//
-//	for (size_t i = 0; i < length; i++)
-//	{
-//		if (data[i] == ' ')
-//		{
-//			count++;
-//		}
-//	}
-//	count++;
-//
-//	cout << "Count of Words is: " << count;
-//}
+int main()
+{
+	int length{ 300 }, count{};
+	char* data = new char[length] {};
+	cout << "Enter: ";
+	cin.getline(data, length);
+
+	for (size_t i = 0; i < length; i++)
+	{
+		if (data[i] == ' ')
+		{
+			count++;
+		}
+	}
+	count++;
+
+	cout << "Count of Words is: " << count;
+}
 
 
 #pragma endregion
