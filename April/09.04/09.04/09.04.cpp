@@ -24,8 +24,8 @@ int min(int* a, int* b, int len1, int len2)
 	int min = a[0];
 	for (size_t i = 1; i < len1; i++)
 	{
-		if (min > b[i])
-			min = b[i];
+		if (min > a[i])
+			min = a[i];
 	}
 	for (size_t i = 1; i < len2; i++)
 	{
