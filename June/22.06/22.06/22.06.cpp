@@ -68,7 +68,7 @@ public:
 
         return objForReturn;
     }
-
+    
     T peek(bool reset = false)
     {
         static uint16_t peekIterator = 0;
