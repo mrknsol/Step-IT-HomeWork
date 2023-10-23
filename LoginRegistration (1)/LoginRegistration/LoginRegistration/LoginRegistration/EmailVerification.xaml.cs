@@ -1,10 +1,4 @@
-﻿
-using Newtonsoft.Json;
-using System;
-using System.Collections.ObjectModel;
-using System.IO;
-using System.Linq;
-using System.Text.RegularExpressions;
+﻿using System;
 using System.Windows;
 using System.Net;
 using System.Net.Mail;
