@@ -1,0 +1,14 @@
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\bin\Debug\net6.0\ProductAbstractFactory.exe
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\bin\Debug\net6.0\ProductAbstractFactory.deps.json
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\bin\Debug\net6.0\ProductAbstractFactory.runtimeconfig.json
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\bin\Debug\net6.0\ProductAbstractFactory.dll
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\bin\Debug\net6.0\ProductAbstractFactory.pdb
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.AssemblyInfoInputs.cache
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.AssemblyInfo.cs
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.csproj.CoreCompileInputs.cache
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.dll
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\refint\ProductAbstractFactory.dll
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.pdb
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ProductAbstractFactory.genruntimeconfig.cache
+C:\StepIT-HomeWork\ProductAbstractFactory\ProductAbstractFactory\obj\Debug\net6.0\ref\ProductAbstractFactory.dll

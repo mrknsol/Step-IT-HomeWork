@@ -1,0 +1,14 @@
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.AssemblyInfoInputs.cache
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.AssemblyInfo.cs
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.csproj.CoreCompileInputs.cache
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.exe
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.deps.json
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.runtimeconfig.json
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.dll
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.pdb
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.dll
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\refint\ComputerBuilder.dll
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.pdb
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.genruntimeconfig.cache
+C:\StepIT-HomeWork\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ref\ComputerBuilder.dll
