@@ -1,0 +1,14 @@
+C:\Step-IT HomeWork\State\State\bin\Debug\net8.0\State.exe
+C:\Step-IT HomeWork\State\State\bin\Debug\net8.0\State.deps.json
+C:\Step-IT HomeWork\State\State\bin\Debug\net8.0\State.runtimeconfig.json
+C:\Step-IT HomeWork\State\State\bin\Debug\net8.0\State.dll
+C:\Step-IT HomeWork\State\State\bin\Debug\net8.0\State.pdb
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.dll
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\refint\State.dll
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.pdb
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+C:\Step-IT HomeWork\State\State\obj\Debug\net8.0\ref\State.dll

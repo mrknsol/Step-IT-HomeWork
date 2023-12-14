@@ -1,0 +1,14 @@
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\bin\Debug\net8.0\FlyWeight.exe
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\bin\Debug\net8.0\FlyWeight.deps.json
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\bin\Debug\net8.0\FlyWeight.runtimeconfig.json
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\bin\Debug\net8.0\FlyWeight.dll
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\bin\Debug\net8.0\FlyWeight.pdb
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.AssemblyInfoInputs.cache
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.AssemblyInfo.cs
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.dll
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\refint\FlyWeight.dll
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.pdb
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\FlyWeight.genruntimeconfig.cache
+C:\Step-IT HomeWork\FlyWeight\FlyWeight\obj\Debug\net8.0\ref\FlyWeight.dll
