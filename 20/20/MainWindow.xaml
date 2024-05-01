@@ -1,0 +1,294 @@
+﻿<Window x:Class="_20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_20"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800"
+        Background="Transparent"
+        WindowStyle="None"
+        AllowsTransparency="True">
+
+    <Border
+        CornerRadius="20"
+        Background="#2c3e50">
+
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border 
+                Background="#2c3e50"
+                Grid.ColumnSpan="4"
+                CornerRadius="20"
+                MouseLeftButtonDown="DragWindow">
+
+                <Button
+                    VerticalAlignment="Top"
+                    HorizontalAlignment="Right"
+                    Foreground="Black"
+                    Click="Close"
+                    Style="{DynamicResource MaterialDesignIconButton}">
+
+                    <md:PackIcon Kind="Close"/>
+                </Button>
+            </Border>
+
+            <Border
+                Grid.Row="1"
+                Width="130"
+                Height="50"
+                Background="Silver"
+                CornerRadius="10">
+
+                <TextBox
+                    md:HintAssist.Hint="Enter fitst num"
+                    x:Name="FirstNum"
+                    CaretBrush="Black"
+                    Margin="10 0 0 0"
+                    FontSize="18"
+                    VerticalAlignment="Center"
+                    Foreground="Black"
+                    BorderBrush="White"
+                    BorderThickness="0"
+                    Style="{DynamicResource MaterialDesignDataGridTextColumnEditingStyle}"
+                    PreviewTextInput="TextBox_PreviewTextInput">
+
+                </TextBox>
+            </Border>
+
+            <Border
+                Grid.Row="1"
+                Grid.Column="1"
+                Width="130"
+                Height="50"
+                Background="Silver"
+                CornerRadius="10">
+
+                <TextBox
+                    md:HintAssist.Hint="Enter second num"
+                    x:Name="SecondNum"
+                    CaretBrush="Black"
+                    Margin="10 0 0 0"
+                    FontSize="15"
+                    VerticalAlignment="Center"
+                    Foreground="Black"
+                    BorderBrush="White"
+                    BorderThickness="0"
+                    Style="{DynamicResource MaterialDesignDataGridTextColumnEditingStyle}"
+                    PreviewTextInput="TextBox_PreviewTextInput">
+
+                </TextBox>
+            </Border>
+
+            <Border
+                Grid.Row="3"
+                Width="110"
+                Height="80"
+                Background="#aed6f1"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Width="100"
+                    Height="70"
+                    Style="{x:Null}"
+                    FontSize="20"
+                    Click="StartNums">
+
+                    Start nums
+                </Button>
+            </Border>
+
+            <Border
+                VerticalAlignment="Top"
+                Grid.Row="2"
+                Width="110"
+                Height="40"
+                Background="#aed6f1"
+                Margin="0 10 0 0"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Style="{x:Null}"
+                    FontSize="20"
+                    Click="StopNums">
+
+                    Stop nums
+                </Button>
+            </Border>
+
+            <Border
+                VerticalAlignment="Bottom"
+                Grid.Row="2"
+                Width="110"
+                Height="40"
+                Background="#aed6f1"
+                Margin="0 0 0 10"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Style="{x:Null}"
+                    FontSize="17"
+                    Click="ResumeNums">
+
+                    Resume nums
+                </Button>
+            </Border>
+
+            <Border
+                VerticalAlignment="Top"
+                Grid.Row="2"
+                Grid.Column="1"
+                Width="110"
+                Height="40"
+                Background="#aed6f1"
+                Margin="0 10 0 0"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Style="{x:Null}"
+                    FontSize="20"
+                    Click="StopFibo">
+
+                    Stop fibo
+                </Button>
+            </Border>
+
+            <Border
+                VerticalAlignment="Bottom"
+                Grid.Row="2"
+                Grid.Column="1"
+                Width="110"
+                Height="40"
+                Background="#aed6f1"
+                Margin="0 0 0 10"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Style="{x:Null}"
+                    FontSize="17"
+                    Click="ResumeFibo">
+
+                    Resume fibo
+                </Button>
+            </Border>
+
+            <Border
+                Grid.Row="3"
+                Grid.Column="1"
+                Width="110"
+                Height="80"
+                Background="#aed6f1"
+                CornerRadius="10">
+
+                <Button
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Width="100"
+                    Height="70"
+                    Style="{x:Null}"
+                    FontSize="15"
+                    Click="StartFibonacci">
+
+                    Start Fibonacci
+                </Button>
+            </Border>
+
+            <Border
+                Width="250"
+                Background="Silver"
+                Grid.Row="1"
+                Grid.RowSpan="3"
+                Grid.Column="2"
+                CornerRadius="20">
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock
+                        Text="Numbers"
+                        TextAlignment="Center"
+                        VerticalAlignment="Center"
+                        FontSize="30">
+                    </TextBlock>
+
+                    <ScrollViewer
+                        VerticalScrollBarVisibility="Hidden"
+                        Grid.Row="1">
+                        
+                        <TextBlock
+                            x:Name="Numbers"
+                            TextWrapping="Wrap"
+                            FontSize="30">
+                        
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+
+            <Border
+                Width="250"
+                Background="Silver"
+                Grid.Row="1"
+                Grid.RowSpan="3"
+                Grid.Column="3"
+                CornerRadius="20">
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.2*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock
+                        Text="Fibonacci"
+                        TextAlignment="Center"
+                        VerticalAlignment="Center"
+                        FontSize="30">
+                    </TextBlock>
+
+                    <ScrollViewer
+                        VerticalScrollBarVisibility="Hidden"
+                        Grid.Row="1">
+
+                        <TextBlock
+                            x:Name="Fibonacci"
+                            TextWrapping="Wrap"
+                            FontSize="30">
+
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</Window>
