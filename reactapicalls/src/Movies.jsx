@@ -101,6 +101,8 @@ function Movies() {
             disabled={currentPage === totalPages}
           >
             Next
+
+            
           </button>
         </div>
       )}
