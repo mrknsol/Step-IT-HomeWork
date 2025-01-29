@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  aspnet-app2:
+    build:
+      context: ./Project2
+      dockerfile: Dockerfile
+    ports:
+      - "5002:80"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: overlay
